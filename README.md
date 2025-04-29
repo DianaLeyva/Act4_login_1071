@@ -1,4 +1,4 @@
-# MAqueta login
+# Maqueta login
 - Pagina de carga
 - ![image](https://github.com/user-attachments/assets/6738b95f-df04-4d14-91f4-def90ca389a8)
 
